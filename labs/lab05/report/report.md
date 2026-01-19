@@ -822,7 +822,7 @@ int 80h             ; вызов ядра
 
 **Ссылка на репозиторий GitHub:**
 ```
-https://github.com/username/study_2025-2026_arch-pc
+https://github.com/hatimnhari/study_2025-2026_arch-pc
 ```
 
 ---
