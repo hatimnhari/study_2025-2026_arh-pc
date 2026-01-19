@@ -25,7 +25,7 @@
 2. Создал учетную запись
 3. Заполнил основные данные профиля
 
-**Скриншот 1:**![[Pasted image 20260118183341.png]]
+**Скриншот 1:**![Pasted image 20260118183341.png](image/Pasted image 20260118183341.png)
 
 **Комментарий:** GitHub - это веб-сервис для хостинга IT-проектов и их совместной разработки, основанный на системе контроля версий Git.
 
@@ -41,7 +41,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
 ```
 
-**Скриншот 2:** ![[Pasted image 20260118051952.png]]
+**Скриншот 2:** ![Pasted image 20260118051952.png](image/Pasted image 20260118051952.png)
 
 **Комментарий:** Эти настройки указывают имя и email, которые будут использоваться в каждом коммите. Флаг `--global` означает, что настройки применяются глобально для всех репозиториев пользователя.
 
@@ -57,7 +57,7 @@ git config --global core.autocrlf input
 git config --global core.safecrlf warn
 ```
 
-**Скриншот 3:** ![[Pasted image 20260118052028.png]]
+**Скриншот 3:** ![Pasted image 20260118052028.png](image/Pasted image 20260118052028.png)
 
 **Комментарий:** 
 - `core.quotepath false` - настройка utf-8 в выводе сообщений git
@@ -89,7 +89,7 @@ init.defaultbranch=master
 
 ```
 
-**Скриншот 4:** ![[Pasted image 20260118052056.png]]
+**Скриншот 4:** ![Pasted image 20260118052056.png](image/Pasted image 20260118052056.png)
 
 **Комментарий:** Команда отображает все текущие настройки Git.
 
@@ -129,7 +129,7 @@ The key's randomart image is:
 
 ```
 
-**Скриншот 5:** ![[Pasted image 20260118052424.png]]
+**Скриншот 5:** ![Pasted image 20260118052424.png](image/Pasted image 20260118052424.png)
 
 **Комментарий:** SSH-ключ необходим для безопасной аутентификации при работе с удаленным репозиторием без необходимости каждый раз вводить пароль. Ключи сохраняются в каталоге `~/.ssh/`.
 
@@ -147,8 +147,8 @@ cat ~/.ssh/id_ed25519.pub
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJUUM2HgPAw0UvtUQ4jgKsN9ANa21EaQf2Kv1VLs4cFz Нхари Хатим  hatimnhari45@gmail.com
 ```
 
-**Скриншот 6:** ![[Pasted image 20260118052547.png]]
-![[Pasted image 20260118053146.png]]
+**Скриншот 6:** ![Pasted image 20260118052547.png](image/Pasted image 20260118052547.png)
+![Pasted image 20260118053146.png](image/Pasted image 20260118053146.png)
 **Комментарий:** Открытый ключ необходимо скопировать для добавления на GitHub. На втором скриншоте скопировали в буффер обмена ключ.
 
 ---
@@ -163,10 +163,10 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJUUM2HgPAw0UvtUQ4jgKsN9ANa21EaQf2Kv1VLs4cFz
 5. Указал название ключа в поле "Title"
 6. Нажал "Add SSH key"
 
-**Скриншот 7:** ![[photo_2026-01-18_18-38-20.jpg]]
+**Скриншот 7:** ![photo_2026-01-18_18-38-20.jpg](image/photo_2026-01-18_18-38-20.jpg)
 
 **Скриншот 8:** 
-![[photo_2026-01-18_18-38-27.jpg]]
+![photo_2026-01-18_18-38-27.jpg](image/photo_2026-01-18_18-38-27.jpg)
 **Комментарий:** После добавления ключа на GitHub, можно работать с репозиториями по SSH-протоколу без ввода пароля.
 
 ---
@@ -196,7 +196,7 @@ ls -R ~/work/study/
 /home/user/work/study/2025-2026/Архитектура компьютера:
 ```
 
-**Скриншот 9:** ![[Pasted image 20260118184026.png]]
+**Скриншот 9:** ![Pasted image 20260118184026.png](image/Pasted image 20260118184026.png)
 **Комментарий:** Создана рекомендованная структура рабочего пространства для хранения материалов курса.
 
 ---
@@ -211,11 +211,11 @@ ls -R ~/work/study/
 5. Оставил репозиторий публичным (Public)
 6. Нажал "Create repository from template"
 
-**Скриншот 10:** ![[Pasted image 20260118184130.png]]
+**Скриншот 10:** ![Pasted image 20260118184130.png](image/Pasted image 20260118184130.png)
 
-**Скриншот 11:** ![[Pasted image 20260118184218.png]]
+**Скриншот 11:** ![Pasted image 20260118184218.png](image/Pasted image 20260118184218.png)
 
-**Скриншот 12:** ![[Pasted image 20260118184242.png]]
+**Скриншот 12:** ![Pasted image 20260118184242.png](image/Pasted image 20260118184242.png)
 **Комментарий:** Создан репозиторий на основе шаблона, который содержит базовую структуру для курса.
 
 ---
@@ -229,7 +229,7 @@ ls -R ~/work/study/
 2. Выбрал вкладку "SSH"
 3. Скопировал ссылку вида: `git@github.com:hatimnhari/study_2025-2026_arch-pc.git`
 
-**Скриншот 13:** ![[Pasted image 20260118184357.png]]
+**Скриншот 13:** ![Pasted image 20260118184357.png](image/Pasted image 20260118184357.png)
 
 ---
 
@@ -270,7 +270,7 @@ Submodule path 'template/presentation': checked out '1c93acf9e731bf186384c85de4a
 Submodule path 'template/report': checked out '8ee157c58b3362947b1c71492a65d4dc6882d5ad'
 ```
 
-**Скриншот 14:** ![[Pasted image 20260118184652.png]]
+**Скриншот 14:** ![Pasted image 20260118184652.png](image/Pasted image 20260118184652.png)
 
 **Комментарий:** Опция `--recursive` клонирует репозиторий вместе со всеми подмодулями. Репозиторий клонирован в каталог `arch-pc`.
 
@@ -291,7 +291,7 @@ pwd
 /home/user/work/study/2025-2026/Архитектура компьютера/arch-pc
 ```
 
-**Скриншот 15:** ![[Pasted image 20260118184728.png]]
+**Скриншот 15:** ![Pasted image 20260118184728.png](image/Pasted image 20260118184728.png)
 
 ---
 
@@ -308,7 +308,7 @@ COURSE  LICENSE   package.json  presentation  README.git-flow.md  template
 labs    Makefile  prepare       README.en.md  README.md```
 ```
 
-**Скриншот 16:** ![[Pasted image 20260118184912.png]]
+**Скриншот 16:** ![Pasted image 20260118184912.png](image/Pasted image 20260118184912.png)
 
 **Комментарий:** Команда `make prepare` создает необходимую структуру каталогов согласно Makefile, находящемуся в репозитории.
 
@@ -856,7 +856,7 @@ gost-r-7-0-5-2008-numeric.csl
 
 ```
 
-**Скриншот 17:**![[Pasted image 20260118185147.png]]
+**Скриншот 17:**![Pasted image 20260118185147.png](image/Pasted image 20260118185147.png)
 
 **Комментарий:** Создана полная структура каталогов для всех лабораторных работ.
 
@@ -893,7 +893,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ```
 
-**Скриншот 18:** ![[Pasted image 20260118185351.png]]
+**Скриншот 18:** ![Pasted image 20260118185351.png](image/Pasted image 20260118185351.png)
 
 ---
 
@@ -1165,7 +1165,7 @@ git commit -am 'feat(main): make course structure'
  create mode 100644 presentation/report/image/solvay.jpg
 ```
 
-**Скриншот 19:** ![[Pasted image 20260118185430.png]]
+**Скриншот 19:** ![Pasted image 20260118185430.png](image/Pasted image 20260118185430.png)
 
 **Комментарий:** Коммит сохраняет изменения в локальном репозитории. Опция `-am` объединяет `git add` для отслеживаемых файлов и создание коммита с сообщением.
 
@@ -1192,7 +1192,7 @@ To github.com:hatimnhari/study_2025-2026_arh-pc.git
 
 ```
 
-**Скриншот 20:** ![[Pasted image 20260118185628.png]]
+**Скриншот 20:** ![Pasted image 20260118185628.png](image/Pasted image 20260118185628.png)
 
 **Комментарий:** Команда `git push` отправляет все закоммиченные изменения из локального репозитория в удаленный репозиторий на GitHub.
 
@@ -1205,9 +1205,9 @@ To github.com:hatimnhari/study_2025-2026_arh-pc.git
 2. Проверил наличие созданной структуры каталогов
 3. Проверил историю коммитов
 
-**Скриншот 21:** ![[Pasted image 20260118185705.png]]
+**Скриншот 21:** ![Pasted image 20260118185705.png](image/Pasted image 20260118185705.png)
 
-**Скриншот 22:** ![[Pasted image 20260118185717.png]]
+**Скриншот 22:** ![Pasted image 20260118185717.png](image/Pasted image 20260118185717.png)
 
 **Комментарий:** Все изменения успешно загружены на GitHub, структура каталогов соответствует локальной версии.
 
@@ -1225,7 +1225,7 @@ ls
 
 **Результат:** Переход в каталог для отчета по второй лабораторной работе
 
-**Скриншот 23:** ![[Pasted image 20260118190101.png]]
+**Скриншот 23:** ![Pasted image 20260118190101.png](image/Pasted image 20260118190101.png)
 
 **Комментарий:** В этом каталоге создается и сохраняется отчет по текущей лабораторной работе.
 
@@ -1244,7 +1244,7 @@ ls ~/work/study/2025-2026/"Архитектура компьютера"/arch-pc/
 lab01_report.pdf
 ```
 
-**Скриншот 24:** ![[Pasted image 20260118191512.png]]
+**Скриншот 24:** ![Pasted image 20260118191512.png](image/Pasted image 20260118191512.png)
 
 **Комментарий:** Отчет по первой лабораторной работе скопирован в соответствующий каталог рабочего пространства.
 
@@ -1272,7 +1272,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```
 
-**Скриншот 25:** ![[Pasted image 20260118191625.png]]
+**Скриншот 25:** ![Pasted image 20260118191625.png](image/Pasted image 20260118191625.png)
 
 **Комментарий:** Git обнаружил новый неотслеживаемый файл.
 
@@ -1296,7 +1296,7 @@ Changes to be committed:
         new file:   labs/lab01/report/lab01_report.pdf
 ```
 
-**Скриншот 26:**![[Pasted image 20260118191708.png]]
+**Скриншот 26:**![Pasted image 20260118191708.png](image/Pasted image 20260118191708.png)
 
 **Комментарий:** Файл добавлен в staging area и готов к коммиту.
 
@@ -1316,7 +1316,7 @@ git commit -m "feat(lab01): add report"
  create mode 100644 labs/lab01/report/lab01_report.pdf
 ```
 
-**Скриншот 27:** ![[Pasted image 20260118192009.png]]
+**Скриншот 27:** ![Pasted image 20260118192009.png](image/Pasted image 20260118192009.png)
 
 **Комментарий:** Изменения зафиксированы в локальном репозитории с информативным сообщением коммита.
 
@@ -1343,7 +1343,7 @@ To github.com:hatimnhari/study_2025-2026_arh-pc.git
 
 ```
 
-**Скриншот 28:** ![[Pasted image 20260118192039.png]]
+**Скриншот 28:** ![Pasted image 20260118192039.png](image/Pasted image 20260118192039.png)
 
 **Комментарий:** Отчет успешно загружен на GitHub.
 
@@ -1351,7 +1351,7 @@ To github.com:hatimnhari/study_2025-2026_arh-pc.git
 
 #### 3.3.5. Проверка на GitHub
 
-**Скриншот 29:** ![[Pasted image 20260118192227.png]]
+**Скриншот 29:** ![Pasted image 20260118192227.png](image/Pasted image 20260118192227.png)
 
 **Комментарий:** Файлы отчетов видны в соответствующих каталогах на GitHub, история коммитов отображает все выполненные действия.
 
